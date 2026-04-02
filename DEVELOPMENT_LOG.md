@@ -58,16 +58,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [2/4/2026 and  9:21 ]
+**What I did**: i started feture 1 
 
-**Details**: 
+**Details**: i finish fetaure 1 in between  9:40 -- 9:95
 
-**Challenges**: 
+**Challenges**: vs code not working 
 
-**Solution**: 
+**Solution**: i use netbeans
 
-**Time spent**: 
+**Time spent**: 20--25 min 
 
 ---
 
