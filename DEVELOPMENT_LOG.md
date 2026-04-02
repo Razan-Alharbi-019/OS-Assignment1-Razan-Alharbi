@@ -45,16 +45,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [2/4/2026 and 12:39]
+**What I did**: adding my univercity id in code 
 
-**Details**: 
+**Details**: adding my univercity id 44502130 in code 
 
-**Challenges**: 
+**Challenges**: in pdf file , it sayes that the place to put my id is on line 92 , but i dont find it
 
-**Solution**: 
+**Solution**:  i find it in line 150 
 
-**Time spent**: 
+**Time spent**: 5 min 
 
 ---
 
