@@ -32,16 +32,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [1/4/2026 and 12:15]
+**What I did**: create a github account 
 
-**Details**: 
+**Details**: i create acount using my univrcity email 
 
-**Challenges**: 
+**Challenges**: no challengs
 
 **Solution**: 
 
-**Time spent**: 
+**Time spent**: mabey 10 - 20 min
 
 ---
 
