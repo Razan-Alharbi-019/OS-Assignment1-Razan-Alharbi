@@ -71,16 +71,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 - [2/4/2026 and 9:45]
+**What I did**: i start add feture 2
 
-**Details**: 
+**Details**: i finish feture 2 at 10:00
 
-**Challenges**: 
+**Challenges**: no challengs
 
 **Solution**: 
 
-**Time spent**: 
+**Time spent**: 15 min
 
 ---
 
